@@ -1,0 +1,1 @@
+ffmpeg -f mjpeg -i output.raw -vcodec copy output_am.mp4
